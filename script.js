@@ -3,7 +3,7 @@ function initMap(){
     const Bushalt = {lat: 6.929180291131427, lng: 79.85699729274641}; 
     map = new google.maps.Map(document.getElementById('map'),{
 
-        center: uni,
+        center: Nelum,
         zoom: 15,
         mapId: 'd6d1205e9187fda7'
     });
